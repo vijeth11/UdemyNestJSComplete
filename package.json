@@ -1,0 +1,19 @@
+{
+  "name": "udemy-nestjs-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^8.0.6",
+    "@nestjs/core": "^8.0.6",
+    "@nestjs/platform-express": "^8.0.6",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.1.0",
+    "typescript": "^4.4.3"
+  }
+}
